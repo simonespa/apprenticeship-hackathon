@@ -130,5 +130,5 @@ jupyter lab
 The Python libraries are installed through the `requirements.txt` file. In case you use a different environment/setup than the one described in this repo, this is the list of dependencies you'll need to install:
 
 ```
-notebook jupyterlab ipywidgets jupyterlab-code-formatter numpy scipy pandas pandas_profiling statsmodels matplotlib seaborn altair plotly scikit-learn xgboost optuna lightgbm category_encoders imbalanced-learn pyarrow
+pip install notebook jupyterlab ipywidgets jupyterlab-code-formatter numpy scipy pandas ydata-profiling statsmodels matplotlib seaborn altair plotly scikit-learn xgboost optuna lightgbm category_encoders imbalanced-learn pyarrow
 ```
