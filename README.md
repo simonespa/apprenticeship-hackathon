@@ -64,7 +64,7 @@ pip install -r requirements.txt
 Start the development environment
 
 ```
-jupyter notebook
+jupyter lab
 ```
 
 > NOTE: remember to deactivate the virtual environment by running the `deactivate` command once finished or if you switch project. If you don't do this and run `python` in another project through the same terminal session, you'll be running the same local version of Python with dependencies you may not want or need.
